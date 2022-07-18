@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=STEVE%20BACKEND%20DEVELOPER&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=BACKEND%20DEVELOPER&fontSize=50)
 
-
+<p style="text-align: center;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diasm3&show_icons=true&theme=radical" />
 </a>
@@ -11,4 +11,4 @@
 ![javacsrcipt](https://img.shields.io/badge/-Javascript-000000?logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?logo=Node.js)
 [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)[![Nestjs](https://img.shields.io/badge/--6C33AF?logo=nestjs)](https://nestjs.com/)
-
+</p>
