@@ -1,3 +1,5 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=BACKEND%20DEVELOPER&fontSize=50)
 
 ##
@@ -18,7 +20,7 @@
 
 ##
 
-<div align=center>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diasm3&show_icons=true&theme=radical" />
 </a>
