@@ -9,14 +9,12 @@
 
 ##
 
-<br>
-
-##
-
 ![Nestjs](https://img.shields.io/badge/-Nestjs-E0234E?logo=nestjs)
-![javacsrcipt](https://img.shields.io/badge/-Javascript-000000?logo=javascript)
+![Javacsrcipt](https://img.shields.io/badge/-Javascript-000000?logo=javascript)
+![Typesrcipt](https://img.shields.io/badge/-Typescript-000000?logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?logo=Node.js)
 [![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)](https://www.vim.org/)[![Visual Studio](https://img.shields.io/badge/-VSCode-6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://github.com/Joowon0220/React_Login)
 
 ##
 
@@ -25,7 +23,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diasm3&show_icons=true&theme=radical" />
 </a>
 
-
-  
- 
 </div>
