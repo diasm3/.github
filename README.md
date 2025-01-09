@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=BACKEND%20DEVELOPER&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=FULLSTACK%20DEVELOPER&fontSize=50)
 
 ##
 
